@@ -1,4 +1,3 @@
-202599
 lefteye_x lefteye_y righteye_x righteye_y nose_x nose_y leftmouth_x leftmouth_y rightmouth_x rightmouth_y
 000001.jpg 69  109  106  113   77  142   73  152  108  154
 000002.jpg 69  110  107  112   81  135   70  151  108  153
